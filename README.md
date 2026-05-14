@@ -1,9 +1,7 @@
 # Week 6: Asynchronous JavaScript
 ## Author
 
-- **Name:** Amos Kimiti
-
-- **GitHub:** [@Kimiti4](https://github.com/Kimiti4)
+- **Name:** Dennis Kibathi
 
 - **Date:** May 3, 2026
 
